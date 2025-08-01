@@ -82,7 +82,7 @@ The dataset contains columns such as:
 
 
 
-\- \*\*C Programming Language\*\*
+\- C Programming Language
 
 \- Standard libraries: `stdio.h`, `stdlib.h`, `string.h`
 
