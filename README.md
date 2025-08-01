@@ -1,4 +1,4 @@
-\# 🏘️ Property Data Analyzer with C
+RoofStat: Property Data Analyzer with C
 
 
 
@@ -6,7 +6,7 @@ This project is a console-based application written in C that allows users to in
 
 
 
-\## 📌 Overview
+📌 Overview
 
 
 
@@ -42,11 +42,11 @@ The dataset contains columns such as:
 
 
 
-\## 🚀 Features
+🚀 Features
 
 
 
-\### 1. Display Data
+1\. Display Data
 
 \- Show a custom number of rows from the CSV.
 
@@ -54,7 +54,7 @@ The dataset contains columns such as:
 
 
 
-\### 2. Search Data
+2\. Search Data
 
 \- Search based on column name and query.
 
@@ -62,7 +62,7 @@ The dataset contains columns such as:
 
 
 
-\### 3. Sort Data
+3\. Sort Data
 
 \- Choose a column to sort by (e.g., `Price`, `Rooms`, etc.).
 
@@ -70,7 +70,7 @@ The dataset contains columns such as:
 
 
 
-\### 4. Export Data
+4\. Export Data
 
 \- Export the current dataset into a new `.csv` file.
 
@@ -78,7 +78,7 @@ The dataset contains columns such as:
 
 
 
-\## 🛠️ Technologies
+🛠️ Technologies
 
 
 
@@ -92,7 +92,7 @@ The dataset contains columns such as:
 
 
 
-\## 📂 How to Run
+📂 How to Run
 
 
 
