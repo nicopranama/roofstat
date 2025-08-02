@@ -2,7 +2,7 @@ RoofStat: Property Data Analyzer with C
 
 
 
-This project is a console-based application written in C that allows users to interactively analyze property listings from a CSV file. It was developed as a case study for the \*\*Algorithm and Programming\*\* course at \*\*Bina Nusantara University\*\*.
+This project is a console-based application written in C that allows users to interactively analyze property listings from a CSV file. It was developed as a case study for the Algorithm and Programming course at Bina Nusantara University.
 
 
 
